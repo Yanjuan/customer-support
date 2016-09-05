@@ -1,0 +1,22 @@
+body {
+    font-size: 16px;
+    color: #257BB9;
+    background-color: #fff;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: #FCFCFC;
+    border-radius: 0;
+    border: 0;
+
+}
+
+.navbar-header h1 {
+    vertical-align: middle;
+}
+
+.navbar-header a:hover, .navbar-header a:focus {
+  text-decoration: none;
+  cursor: default;
+}
